@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This is a clone youtube app where a user can watch videos as per there choice as they used to watch on youtube itself.
+The videos are fetched form Youtube api provided by developers.google.com
 ## Available Scripts
 
 In the project directory, you can run:
